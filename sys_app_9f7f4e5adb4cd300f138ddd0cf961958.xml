@@ -23,12 +23,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-05 08:38:16</sys_created_on>
         <sys_id>9f7f4e5adb4cd300f138ddd0cf961958</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-02-05 08:38:16</sys_updated_on>
+        <sys_updated_on>2018-02-19 05:22:33</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role/>
+        <user_role display_value="x_167626_needit.needit_user" name="x_167626_needit.needit_user">e8c012dadb4cd300f138ddd0cf9619e8</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
