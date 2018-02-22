@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_167626_needit_needit_tasks</description>
+        <name>x_167626_needit_needit_tasks</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-22 04:45:35</sys_created_on>
+        <sys_id>fc4d783fdb949300f138ddd0cf96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_167626_needit_needit_tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_167626_needit">9f7f4e5adb4cd300f138ddd0cf961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">9f7f4e5adb4cd300f138ddd0cf961958</sys_scope>
+        <sys_update_name>sys_security_acl_fc4d783fdb949300f138ddd0cf96195a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-22 04:45:35</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

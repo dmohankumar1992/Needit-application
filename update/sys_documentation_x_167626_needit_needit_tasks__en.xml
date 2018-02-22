@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Needit Tasks" language="en" table="x_167626_needit_needit_tasks">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Needit Tasks</label>
+            <language>en</language>
+            <name>x_167626_needit_needit_tasks</name>
+            <plural>Needit Tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-22 04:45:35</sys_created_on>
+            <sys_id>854d783fdb949300f138ddd0cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Needit Tasks</sys_name>
+            <sys_package display_value="NeedIt" source="x_167626_needit">9f7f4e5adb4cd300f138ddd0cf961958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">9f7f4e5adb4cd300f138ddd0cf961958</sys_scope>
+            <sys_update_name>sys_documentation_x_167626_needit_needit_tasks__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-22 04:45:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
