@@ -4,7 +4,7 @@
         <active>true</active>
         <category>discovery</category>
         <content><![CDATA[ <h1 class="title topictitle1">Discovery probes</h1>  <div class="body conbody">  <p class="p"><span class="ph">Probes are launched by the MID Server to collect all the      information that you want returned from a device.</span>   For example, the base instance has probes to get the names of <span class="ph">Windows</span> and <span class="ph">Linux</span> devices, and separate exploration   probes that return disk information for devices with those operating systems. View each probe&#39;s   results in the ECC queue, which displays specifics such as the time the probe ran and its   payload. For each probe, you must also create a sensor to process the data that the probe   returns.</p> </div> <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Probe&amp;version&#61;jakarta" target="_blank" rel="nofollow">Discovery probes</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:ListDiscoveryProbes&amp;version&#61;jakarta" target="_blank" rel="nofollow">List of Discovery probes</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:ECCQueueAccess&amp;version&#61;jakarta" target="_blank" rel="nofollow">Access the ECC queue</a></div></div></div></div>]]></content>
-        <last_sync>2018-02-15 16:37:10</last_sync>
+        <last_sync>2018-03-02 16:38:07</last_sync>
         <modifier>normal</modifier>
         <name>discovery_probes-normal</name>
         <page>discovery_probes</page>
@@ -17,14 +17,14 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-02-15 16:37:10</sys_created_on>
         <sys_id>980d9f69dbdc1300f138ddd0cf96196a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>discovery_probes-normal</sys_name>
         <sys_package display_value="NeedIt" source="x_167626_needit">9f7f4e5adb4cd300f138ddd0cf961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">9f7f4e5adb4cd300f138ddd0cf961958</sys_scope>
         <sys_update_name>sys_embedded_help_content_980d9f69dbdc1300f138ddd0cf96196a</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-02-15 16:37:10</sys_updated_on>
+        <sys_updated_on>2018-03-02 16:38:07</sys_updated_on>
         <version>j</version>
     </sys_embedded_help_content>
     <sys_translated_text action="delete_multiple" query="documentkey=980d9f69dbdc1300f138ddd0cf96196a"/>
